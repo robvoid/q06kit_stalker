@@ -1,0 +1,31 @@
+COPY ~qin06dz/cre/wowtsd.cre~      ~override/wowtsd.cre~
+SAY NAME1  @732
+SAY NAME2  @732
+
+COPY ~qin06dz/cre/wowtfjl.cre~      ~override/wowtfjl.cre~
+SAY NAME1  @733
+SAY NAME2  @733
+
+COPY ~qin06dz/cre/wowtsz1.cre~      ~override/wowtsz1.cre~
+SAY NAME1  @722
+SAY NAME2  @722
+
+COPY ~qin06dz/cre/wowtsz2.cre~      ~override/wowtsz2.cre~
+SAY NAME1  @723
+SAY NAME2  @723
+
+COPY ~qin06dz/cre/wowtjysr.cre~      ~override/wowtjysr.cre~
+SAY NAME1  @724
+SAY NAME2  @724
+
+COPY ~qin06dz/cre/wowttc.cre~      ~override/wowttc.cre~
+SAY NAME1  @712
+SAY NAME2  @712
+
+COPY ~qin06dz/cre/wowttc1.cre~      ~override/wowttc1.cre~
+SAY NAME1  @714
+SAY NAME2  @714
+
+COPY ~qin06dz/spl/wowt6a.spl~      ~override/wowt6a.spl~
+SAY NAME1 @60
+SAY UNIDENTIFIED_DESC @600

@@ -1,0 +1,32 @@
+BACKUP ~qin06dz/backup~                                       
+AUTHOR ~564583636@qq.com~   
+
+README ~%MOD_FOLDER%/tra/%LANGUAGE%/readme.txt~
+
+VERSION ~v1.4~
+
+AUTO_EVAL_STRINGS
+
+AUTO_TRA ~%MOD_FOLDER%/tra/EE/%s~
+
+
+LANGUAGE  ~Simplified Chinese~	~schinese~  
+								~qin06dz/tra/prompts/prompts-%WEIDU_OS%.tra~                     
+								~qin06dz/tra/setup.tra~
+								~qin06dz/tra/schinese/qin06dz.tra~   
+
+BEGIN @9901
+SUBCOMPONENT @9910
+INCLUDE ~%MOD_FOLDER%/lib/basic.tpa~
+INCLUDE ~%MOD_FOLDER%/lib/normal.tpa~
+
+BEGIN @9902
+SUBCOMPONENT @9910
+INCLUDE ~%MOD_FOLDER%/lib/basic.tpa~
+INCLUDE ~%MOD_FOLDER%/lib/babybus.tpa~
+
+BEGIN @9903
+SUBCOMPONENT @9910
+INCLUDE ~%MOD_FOLDER%/lib/basic.tpa~
+INCLUDE ~%MOD_FOLDER%/lib/lob.tpa~
+
